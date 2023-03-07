@@ -84,12 +84,10 @@
         birthDate: new Date(),
         lastOpenFolder: '/home',
         email: 'fernando@gmail.com',
-        lastOpenFolder: 'admin',
+        role: 'admin',
         name: 'Fernando',
         gender: 'M',
-       
         workingDirectory: 'C:',
-
     });
 
 })();
